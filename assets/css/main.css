@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    width:calc( 100% - 200px);
+    margin:auto;
+}
+
+input,textarea,button{
+    margin-bottom:10px;
+}
+
